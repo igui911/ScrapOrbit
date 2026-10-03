@@ -1,0 +1,830 @@
+[
+ {
+  "key": "scrap",
+  "file": "so_icon_scrap.png",
+  "px": 512,
+  "family": "symbol",
+  "source": "blender",
+  "config": true,
+  "url": "https://raw.githubusercontent.com/igui911/ScrapOrbit/main/icons/so_icon_scrap.png"
+ },
+ {
+  "key": "xp",
+  "file": "so_icon_xp.png",
+  "px": 512,
+  "family": "symbol",
+  "source": "blender",
+  "config": true,
+  "url": "https://raw.githubusercontent.com/igui911/ScrapOrbit/main/icons/so_icon_xp.png"
+ },
+ {
+  "key": "moondust",
+  "file": "so_icon_moondust.png",
+  "px": 512,
+  "family": "symbol",
+  "source": "blender-recoloured",
+  "config": true,
+  "url": "https://raw.githubusercontent.com/igui911/ScrapOrbit/main/icons/so_icon_moondust.png"
+ },
+ {
+  "key": "marsiron",
+  "file": "so_icon_marsiron.png",
+  "px": 512,
+  "family": "symbol",
+  "source": "blender",
+  "config": true,
+  "url": "https://raw.githubusercontent.com/igui911/ScrapOrbit/main/icons/so_icon_marsiron.png"
+ },
+ {
+  "key": "beltore",
+  "file": "so_icon_beltore.png",
+  "px": 512,
+  "family": "symbol",
+  "source": "blender-recoloured",
+  "config": true,
+  "url": "https://raw.githubusercontent.com/igui911/ScrapOrbit/main/icons/so_icon_beltore.png"
+ },
+ {
+  "key": "stormcrystal",
+  "file": "so_icon_stormcrystal.png",
+  "px": 512,
+  "family": "symbol",
+  "source": "blender",
+  "config": true,
+  "url": "https://raw.githubusercontent.com/igui911/ScrapOrbit/main/icons/so_icon_stormcrystal.png"
+ },
+ {
+  "key": "ringice",
+  "file": "so_icon_ringice.png",
+  "px": 512,
+  "family": "symbol",
+  "source": "blender-recoloured",
+  "config": true,
+  "url": "https://raw.githubusercontent.com/igui911/ScrapOrbit/main/icons/so_icon_ringice.png"
+ },
+ {
+  "key": "ticket_scrap",
+  "file": "so_icon_ticket_scrap.png",
+  "px": 512,
+  "family": "symbol",
+  "source": "blender",
+  "config": true,
+  "url": "https://raw.githubusercontent.com/igui911/ScrapOrbit/main/icons/so_icon_ticket_scrap.png"
+ },
+ {
+  "key": "ticket_alloy",
+  "file": "so_icon_ticket_alloy.png",
+  "px": 512,
+  "family": "symbol",
+  "source": "blender",
+  "config": true,
+  "url": "https://raw.githubusercontent.com/igui911/ScrapOrbit/main/icons/so_icon_ticket_alloy.png"
+ },
+ {
+  "key": "ticket_core",
+  "file": "so_icon_ticket_core.png",
+  "px": 512,
+  "family": "symbol",
+  "source": "blender",
+  "config": true,
+  "url": "https://raw.githubusercontent.com/igui911/ScrapOrbit/main/icons/so_icon_ticket_core.png"
+ },
+ {
+  "key": "band_01_hexnut",
+  "file": "so_icon_band_01_hexnut.png",
+  "px": 512,
+  "family": "symbol",
+  "source": "v2",
+  "config": true,
+  "url": "https://raw.githubusercontent.com/igui911/ScrapOrbit/main/icons/so_icon_band_01_hexnut.png"
+ },
+ {
+  "key": "band_02_plate",
+  "file": "so_icon_band_02_plate.png",
+  "px": 512,
+  "family": "symbol",
+  "source": "v2",
+  "config": true,
+  "url": "https://raw.githubusercontent.com/igui911/ScrapOrbit/main/icons/so_icon_band_02_plate.png"
+ },
+ {
+  "key": "band_03_fin",
+  "file": "so_icon_band_03_fin.png",
+  "px": 512,
+  "family": "symbol",
+  "source": "v2",
+  "config": true,
+  "url": "https://raw.githubusercontent.com/igui911/ScrapOrbit/main/icons/so_icon_band_03_fin.png"
+ },
+ {
+  "key": "band_04_rocket",
+  "file": "so_icon_band_04_rocket.png",
+  "px": 512,
+  "family": "symbol",
+  "source": "v2",
+  "config": true,
+  "url": "https://raw.githubusercontent.com/igui911/ScrapOrbit/main/icons/so_icon_band_04_rocket.png"
+ },
+ {
+  "key": "band_05_moon",
+  "file": "so_icon_band_05_moon.png",
+  "px": 512,
+  "family": "symbol",
+  "source": "v2",
+  "config": true,
+  "url": "https://raw.githubusercontent.com/igui911/ScrapOrbit/main/icons/so_icon_band_05_moon.png"
+ },
+ {
+  "key": "band_06_saturn",
+  "file": "so_icon_band_06_saturn.png",
+  "px": 512,
+  "family": "symbol",
+  "source": "v2",
+  "config": true,
+  "url": "https://raw.githubusercontent.com/igui911/ScrapOrbit/main/icons/so_icon_band_06_saturn.png"
+ },
+ {
+  "key": "band_07_comet",
+  "file": "so_icon_band_07_comet.png",
+  "px": 512,
+  "family": "symbol",
+  "source": "v2",
+  "config": true,
+  "url": "https://raw.githubusercontent.com/igui911/ScrapOrbit/main/icons/so_icon_band_07_comet.png"
+ },
+ {
+  "key": "band_08_star",
+  "file": "so_icon_band_08_star.png",
+  "px": 512,
+  "family": "symbol",
+  "source": "v2",
+  "config": true,
+  "url": "https://raw.githubusercontent.com/igui911/ScrapOrbit/main/icons/so_icon_band_08_star.png"
+ },
+ {
+  "key": "band_09_galaxy",
+  "file": "so_icon_band_09_galaxy.png",
+  "px": 512,
+  "family": "symbol",
+  "source": "v2",
+  "config": true,
+  "url": "https://raw.githubusercontent.com/igui911/ScrapOrbit/main/icons/so_icon_band_09_galaxy.png"
+ },
+ {
+  "key": "band_10_sun",
+  "file": "so_icon_band_10_sun.png",
+  "px": 512,
+  "family": "symbol",
+  "source": "v2",
+  "config": true,
+  "url": "https://raw.githubusercontent.com/igui911/ScrapOrbit/main/icons/so_icon_band_10_sun.png"
+ },
+ {
+  "key": "badge_frame",
+  "file": "so_icon_badge_frame.png",
+  "px": 512,
+  "family": "symbol",
+  "source": "v2",
+  "config": true,
+  "url": "https://raw.githubusercontent.com/igui911/ScrapOrbit/main/icons/so_icon_badge_frame.png"
+ },
+ {
+  "key": "ring_bronze",
+  "file": "so_icon_ring_bronze.png",
+  "px": 512,
+  "family": "symbol",
+  "source": "v2",
+  "config": true,
+  "url": "https://raw.githubusercontent.com/igui911/ScrapOrbit/main/icons/so_icon_ring_bronze.png"
+ },
+ {
+  "key": "ring_silver",
+  "file": "so_icon_ring_silver.png",
+  "px": 512,
+  "family": "symbol",
+  "source": "v2",
+  "config": true,
+  "url": "https://raw.githubusercontent.com/igui911/ScrapOrbit/main/icons/so_icon_ring_silver.png"
+ },
+ {
+  "key": "ring_gold",
+  "file": "so_icon_ring_gold.png",
+  "px": 512,
+  "family": "symbol",
+  "source": "v2",
+  "config": true,
+  "url": "https://raw.githubusercontent.com/igui911/ScrapOrbit/main/icons/so_icon_ring_gold.png"
+ },
+ {
+  "key": "ring_diamond",
+  "file": "so_icon_ring_diamond.png",
+  "px": 512,
+  "family": "symbol",
+  "source": "v2",
+  "config": true,
+  "url": "https://raw.githubusercontent.com/igui911/ScrapOrbit/main/icons/so_icon_ring_diamond.png"
+ },
+ {
+  "key": "ring_neon",
+  "file": "so_icon_ring_neon.png",
+  "px": 512,
+  "family": "symbol",
+  "source": "v2",
+  "config": true,
+  "url": "https://raw.githubusercontent.com/igui911/ScrapOrbit/main/icons/so_icon_ring_neon.png"
+ },
+ {
+  "key": "ring_rainbow",
+  "file": "so_icon_ring_rainbow.png",
+  "px": 512,
+  "family": "symbol",
+  "source": "v2",
+  "config": true,
+  "url": "https://raw.githubusercontent.com/igui911/ScrapOrbit/main/icons/so_icon_ring_rainbow.png"
+ },
+ {
+  "key": "rayring",
+  "file": "so_icon_rayring.png",
+  "px": 512,
+  "family": "symbol",
+  "source": "v2",
+  "config": true,
+  "url": "https://raw.githubusercontent.com/igui911/ScrapOrbit/main/icons/so_icon_rayring.png"
+ },
+ {
+  "key": "star",
+  "file": "so_icon_star.png",
+  "px": 512,
+  "family": "symbol",
+  "source": "blender",
+  "config": true,
+  "url": "https://raw.githubusercontent.com/igui911/ScrapOrbit/main/icons/so_icon_star.png"
+ },
+ {
+  "key": "wheel_scrap",
+  "file": "so_icon_wheel_scrap.png",
+  "px": 512,
+  "family": "symbol",
+  "source": "blender",
+  "config": true,
+  "url": "https://raw.githubusercontent.com/igui911/ScrapOrbit/main/icons/so_icon_wheel_scrap.png"
+ },
+ {
+  "key": "wheel_alloy",
+  "file": "so_icon_wheel_alloy.png",
+  "px": 512,
+  "family": "symbol",
+  "source": "blender",
+  "config": true,
+  "url": "https://raw.githubusercontent.com/igui911/ScrapOrbit/main/icons/so_icon_wheel_alloy.png"
+ },
+ {
+  "key": "wheel_core",
+  "file": "so_icon_wheel_core.png",
+  "px": 512,
+  "family": "symbol",
+  "source": "blender",
+  "config": true,
+  "url": "https://raw.githubusercontent.com/igui911/ScrapOrbit/main/icons/so_icon_wheel_core.png"
+ },
+ {
+  "key": "wheel_pointer",
+  "file": "so_icon_wheel_pointer.png",
+  "px": 512,
+  "family": "symbol",
+  "source": "blender",
+  "config": true,
+  "url": "https://raw.githubusercontent.com/igui911/ScrapOrbit/main/icons/so_icon_wheel_pointer.png"
+ },
+ {
+  "key": "medal_gold",
+  "file": "so_icon_medal_gold.png",
+  "px": 512,
+  "family": "symbol",
+  "source": "blender",
+  "config": true,
+  "url": "https://raw.githubusercontent.com/igui911/ScrapOrbit/main/icons/so_icon_medal_gold.png"
+ },
+ {
+  "key": "medal_silver",
+  "file": "so_icon_medal_silver.png",
+  "px": 512,
+  "family": "symbol",
+  "source": "blender",
+  "config": true,
+  "url": "https://raw.githubusercontent.com/igui911/ScrapOrbit/main/icons/so_icon_medal_silver.png"
+ },
+ {
+  "key": "medal_bronze",
+  "file": "so_icon_medal_bronze.png",
+  "px": 512,
+  "family": "symbol",
+  "source": "blender",
+  "config": true,
+  "url": "https://raw.githubusercontent.com/igui911/ScrapOrbit/main/icons/so_icon_medal_bronze.png"
+ },
+ {
+  "key": "crown",
+  "file": "so_icon_crown.png",
+  "px": 512,
+  "family": "symbol",
+  "source": "blender",
+  "config": true,
+  "url": "https://raw.githubusercontent.com/igui911/ScrapOrbit/main/icons/so_icon_crown.png"
+ },
+ {
+  "key": "lock",
+  "file": "so_icon_lock.png",
+  "px": 256,
+  "family": "glyph",
+  "source": "blender",
+  "config": true,
+  "url": "https://raw.githubusercontent.com/igui911/ScrapOrbit/main/icons/so_icon_lock.png"
+ },
+ {
+  "key": "tick",
+  "file": "so_icon_tick.png",
+  "px": 256,
+  "family": "glyph",
+  "source": "blender",
+  "config": true,
+  "url": "https://raw.githubusercontent.com/igui911/ScrapOrbit/main/icons/so_icon_tick.png"
+ },
+ {
+  "key": "chevron_up",
+  "file": "so_icon_chevron_up.png",
+  "px": 256,
+  "family": "glyph",
+  "source": "blender",
+  "config": true,
+  "url": "https://raw.githubusercontent.com/igui911/ScrapOrbit/main/icons/so_icon_chevron_up.png"
+ },
+ {
+  "key": "chevron_down",
+  "file": "so_icon_chevron_down.png",
+  "px": 256,
+  "family": "glyph",
+  "source": "blender",
+  "config": true,
+  "url": "https://raw.githubusercontent.com/igui911/ScrapOrbit/main/icons/so_icon_chevron_down.png"
+ },
+ {
+  "key": "arrow_left",
+  "file": "so_icon_arrow_left.png",
+  "px": 256,
+  "family": "glyph",
+  "source": "blender",
+  "config": true,
+  "url": "https://raw.githubusercontent.com/igui911/ScrapOrbit/main/icons/so_icon_arrow_left.png"
+ },
+ {
+  "key": "arrow_right",
+  "file": "so_icon_arrow_right.png",
+  "px": 256,
+  "family": "glyph",
+  "source": "blender",
+  "config": true,
+  "url": "https://raw.githubusercontent.com/igui911/ScrapOrbit/main/icons/so_icon_arrow_right.png"
+ },
+ {
+  "key": "plus",
+  "file": "so_icon_plus.png",
+  "px": 256,
+  "family": "glyph",
+  "source": "blender",
+  "config": true,
+  "url": "https://raw.githubusercontent.com/igui911/ScrapOrbit/main/icons/so_icon_plus.png"
+ },
+ {
+  "key": "minus",
+  "file": "so_icon_minus.png",
+  "px": 256,
+  "family": "glyph",
+  "source": "blender",
+  "config": true,
+  "url": "https://raw.githubusercontent.com/igui911/ScrapOrbit/main/icons/so_icon_minus.png"
+ },
+ {
+  "key": "undo",
+  "file": "so_icon_undo.png",
+  "px": 256,
+  "family": "glyph",
+  "source": "blender",
+  "config": true,
+  "url": "https://raw.githubusercontent.com/igui911/ScrapOrbit/main/icons/so_icon_undo.png"
+ },
+ {
+  "key": "rotate",
+  "file": "so_icon_rotate.png",
+  "px": 256,
+  "family": "glyph",
+  "source": "blender",
+  "config": true,
+  "url": "https://raw.githubusercontent.com/igui911/ScrapOrbit/main/icons/so_icon_rotate.png"
+ },
+ {
+  "key": "delete",
+  "file": "so_icon_delete.png",
+  "px": 256,
+  "family": "glyph",
+  "source": "blender",
+  "config": true,
+  "url": "https://raw.githubusercontent.com/igui911/ScrapOrbit/main/icons/so_icon_delete.png"
+ },
+ {
+  "key": "move",
+  "file": "so_icon_move.png",
+  "px": 256,
+  "family": "glyph",
+  "source": "blender",
+  "config": true,
+  "url": "https://raw.githubusercontent.com/igui911/ScrapOrbit/main/icons/so_icon_move.png"
+ },
+ {
+  "key": "copy",
+  "file": "so_icon_copy.png",
+  "px": 256,
+  "family": "glyph",
+  "source": "blender",
+  "config": true,
+  "url": "https://raw.githubusercontent.com/igui911/ScrapOrbit/main/icons/so_icon_copy.png"
+ },
+ {
+  "key": "camera",
+  "file": "so_icon_camera.png",
+  "px": 256,
+  "family": "glyph",
+  "source": "blender",
+  "config": true,
+  "url": "https://raw.githubusercontent.com/igui911/ScrapOrbit/main/icons/so_icon_camera.png"
+ },
+ {
+  "key": "close",
+  "file": "so_icon_close.png",
+  "px": 256,
+  "family": "glyph",
+  "source": "blender",
+  "config": true,
+  "url": "https://raw.githubusercontent.com/igui911/ScrapOrbit/main/icons/so_icon_close.png"
+ },
+ {
+  "key": "mission",
+  "file": "so_icon_mission.png",
+  "px": 256,
+  "family": "glyph",
+  "source": "blender",
+  "config": true,
+  "url": "https://raw.githubusercontent.com/igui911/ScrapOrbit/main/icons/so_icon_mission.png"
+ },
+ {
+  "key": "boost",
+  "file": "so_icon_boost.png",
+  "px": 256,
+  "family": "glyph",
+  "source": "blender",
+  "config": true,
+  "url": "https://raw.githubusercontent.com/igui911/ScrapOrbit/main/icons/so_icon_boost.png"
+ },
+ {
+  "key": "build",
+  "file": "so_icon_build.png",
+  "px": 256,
+  "family": "glyph",
+  "source": "blender",
+  "config": true,
+  "url": "https://raw.githubusercontent.com/igui911/ScrapOrbit/main/icons/so_icon_build.png"
+ },
+ {
+  "key": "saves",
+  "file": "so_icon_saves.png",
+  "px": 256,
+  "family": "glyph",
+  "source": "blender",
+  "config": true,
+  "url": "https://raw.githubusercontent.com/igui911/ScrapOrbit/main/icons/so_icon_saves.png"
+ },
+ {
+  "key": "crew",
+  "file": "so_icon_crew.png",
+  "px": 256,
+  "family": "glyph",
+  "source": "blender",
+  "config": true,
+  "url": "https://raw.githubusercontent.com/igui911/ScrapOrbit/main/icons/so_icon_crew.png"
+ },
+ {
+  "key": "launch",
+  "file": "so_icon_launch.png",
+  "px": 256,
+  "family": "glyph",
+  "source": "blender",
+  "config": true,
+  "url": "https://raw.githubusercontent.com/igui911/ScrapOrbit/main/icons/so_icon_launch.png"
+ },
+ {
+  "key": "speed",
+  "file": "so_icon_speed.png",
+  "px": 256,
+  "family": "glyph",
+  "source": "blender",
+  "config": true,
+  "url": "https://raw.githubusercontent.com/igui911/ScrapOrbit/main/icons/so_icon_speed.png"
+ },
+ {
+  "key": "steer",
+  "file": "so_icon_steer.png",
+  "px": 256,
+  "family": "glyph",
+  "source": "blender",
+  "config": true,
+  "url": "https://raw.githubusercontent.com/igui911/ScrapOrbit/main/icons/so_icon_steer.png"
+ },
+ {
+  "key": "shield",
+  "file": "so_icon_shield.png",
+  "px": 256,
+  "family": "glyph",
+  "source": "blender",
+  "config": true,
+  "url": "https://raw.githubusercontent.com/igui911/ScrapOrbit/main/icons/so_icon_shield.png"
+ },
+ {
+  "key": "air",
+  "file": "so_icon_air.png",
+  "px": 256,
+  "family": "glyph",
+  "source": "blender",
+  "config": true,
+  "url": "https://raw.githubusercontent.com/igui911/ScrapOrbit/main/icons/so_icon_air.png"
+ },
+ {
+  "key": "sound_on",
+  "file": "so_icon_sound_on.png",
+  "px": 256,
+  "family": "glyph",
+  "source": "blender",
+  "config": true,
+  "url": "https://raw.githubusercontent.com/igui911/ScrapOrbit/main/icons/so_icon_sound_on.png"
+ },
+ {
+  "key": "sound_off",
+  "file": "so_icon_sound_off.png",
+  "px": 256,
+  "family": "glyph",
+  "source": "blender",
+  "config": true,
+  "url": "https://raw.githubusercontent.com/igui911/ScrapOrbit/main/icons/so_icon_sound_off.png"
+ },
+ {
+  "key": "settings",
+  "file": "so_icon_settings.png",
+  "px": 256,
+  "family": "glyph",
+  "source": "blender",
+  "config": true,
+  "url": "https://raw.githubusercontent.com/igui911/ScrapOrbit/main/icons/so_icon_settings.png"
+ },
+ {
+  "key": "info",
+  "file": "so_icon_info.png",
+  "px": 256,
+  "family": "glyph",
+  "source": "blender",
+  "config": true,
+  "url": "https://raw.githubusercontent.com/igui911/ScrapOrbit/main/icons/so_icon_info.png"
+ },
+ {
+  "key": "helmet",
+  "file": "so_icon_helmet.png",
+  "px": 256,
+  "family": "glyph",
+  "source": "new",
+  "config": true,
+  "url": "https://raw.githubusercontent.com/igui911/ScrapOrbit/main/icons/so_icon_helmet.png"
+ },
+ {
+  "key": "zone_leavingearth",
+  "file": "so_icon_zone_leavingearth.png",
+  "px": 256,
+  "family": "glyph",
+  "source": "new",
+  "config": true,
+  "url": "https://raw.githubusercontent.com/igui911/ScrapOrbit/main/icons/so_icon_zone_leavingearth.png"
+ },
+ {
+  "key": "zone_sky",
+  "file": "so_icon_zone_sky.png",
+  "px": 256,
+  "family": "glyph",
+  "source": "new",
+  "config": true,
+  "url": "https://raw.githubusercontent.com/igui911/ScrapOrbit/main/icons/so_icon_zone_sky.png"
+ },
+ {
+  "key": "zone_loworbit",
+  "file": "so_icon_zone_loworbit.png",
+  "px": 256,
+  "family": "glyph",
+  "source": "new",
+  "config": true,
+  "url": "https://raw.githubusercontent.com/igui911/ScrapOrbit/main/icons/so_icon_zone_loworbit.png"
+ },
+ {
+  "key": "zone_deepspace",
+  "file": "so_icon_zone_deepspace.png",
+  "px": 256,
+  "family": "glyph",
+  "source": "new",
+  "config": true,
+  "url": "https://raw.githubusercontent.com/igui911/ScrapOrbit/main/icons/so_icon_zone_deepspace.png"
+ },
+ {
+  "key": "zone_moon",
+  "file": "so_icon_zone_moon.png",
+  "px": 256,
+  "family": "glyph",
+  "source": "new",
+  "config": true,
+  "url": "https://raw.githubusercontent.com/igui911/ScrapOrbit/main/icons/so_icon_zone_moon.png"
+ },
+ {
+  "key": "zone_longdark",
+  "file": "so_icon_zone_longdark.png",
+  "px": 256,
+  "family": "glyph",
+  "source": "new",
+  "config": true,
+  "url": "https://raw.githubusercontent.com/igui911/ScrapOrbit/main/icons/so_icon_zone_longdark.png"
+ },
+ {
+  "key": "zone_mars",
+  "file": "so_icon_zone_mars.png",
+  "px": 256,
+  "family": "glyph",
+  "source": "new",
+  "config": true,
+  "url": "https://raw.githubusercontent.com/igui911/ScrapOrbit/main/icons/so_icon_zone_mars.png"
+ },
+ {
+  "key": "zone_belt",
+  "file": "so_icon_zone_belt.png",
+  "px": 256,
+  "family": "glyph",
+  "source": "new",
+  "config": true,
+  "url": "https://raw.githubusercontent.com/igui911/ScrapOrbit/main/icons/so_icon_zone_belt.png"
+ },
+ {
+  "key": "zone_jupiter",
+  "file": "so_icon_zone_jupiter.png",
+  "px": 256,
+  "family": "glyph",
+  "source": "new",
+  "config": true,
+  "url": "https://raw.githubusercontent.com/igui911/ScrapOrbit/main/icons/so_icon_zone_jupiter.png"
+ },
+ {
+  "key": "zone_saturn",
+  "file": "so_icon_zone_saturn.png",
+  "px": 256,
+  "family": "glyph",
+  "source": "new",
+  "config": true,
+  "url": "https://raw.githubusercontent.com/igui911/ScrapOrbit/main/icons/so_icon_zone_saturn.png"
+ },
+ {
+  "key": "zone_uranus",
+  "file": "so_icon_zone_uranus.png",
+  "px": 256,
+  "family": "glyph",
+  "source": "new",
+  "config": true,
+  "url": "https://raw.githubusercontent.com/igui911/ScrapOrbit/main/icons/so_icon_zone_uranus.png"
+ },
+ {
+  "key": "zone_neptune",
+  "file": "so_icon_zone_neptune.png",
+  "px": 256,
+  "family": "glyph",
+  "source": "new",
+  "config": true,
+  "url": "https://raw.githubusercontent.com/igui911/ScrapOrbit/main/icons/so_icon_zone_neptune.png"
+ },
+ {
+  "key": "zone_milkyway",
+  "file": "so_icon_zone_milkyway.png",
+  "px": 256,
+  "family": "glyph",
+  "source": "new",
+  "config": true,
+  "url": "https://raw.githubusercontent.com/igui911/ScrapOrbit/main/icons/so_icon_zone_milkyway.png"
+ },
+ {
+  "key": "badge_liftoff",
+  "file": "so_icon_badge_liftoff.png",
+  "px": 512,
+  "family": "badge",
+  "source": "blender",
+  "config": true,
+  "url": "https://raw.githubusercontent.com/igui911/ScrapOrbit/main/icons/so_icon_badge_liftoff.png"
+ },
+ {
+  "key": "badge_laststop",
+  "file": "so_icon_badge_laststop.png",
+  "px": 512,
+  "family": "badge",
+  "source": "blender",
+  "config": true,
+  "url": "https://raw.githubusercontent.com/igui911/ScrapOrbit/main/icons/so_icon_badge_laststop.png"
+ },
+ {
+  "key": "badge_level10",
+  "file": "so_icon_badge_level10.png",
+  "px": 512,
+  "family": "badge",
+  "source": "blender",
+  "config": true,
+  "url": "https://raw.githubusercontent.com/igui911/ScrapOrbit/main/icons/so_icon_badge_level10.png"
+ },
+ {
+  "key": "badge_level25",
+  "file": "so_icon_badge_level25.png",
+  "px": 512,
+  "family": "badge",
+  "source": "blender",
+  "config": true,
+  "url": "https://raw.githubusercontent.com/igui911/ScrapOrbit/main/icons/so_icon_badge_level25.png"
+ },
+ {
+  "key": "badge_level50",
+  "file": "so_icon_badge_level50.png",
+  "px": 512,
+  "family": "badge",
+  "source": "blender",
+  "config": true,
+  "url": "https://raw.githubusercontent.com/igui911/ScrapOrbit/main/icons/so_icon_badge_level50.png"
+ },
+ {
+  "key": "badge_prestige_bronze",
+  "file": "so_icon_badge_prestige_bronze.png",
+  "px": 512,
+  "family": "badge",
+  "source": "blender",
+  "config": true,
+  "url": "https://raw.githubusercontent.com/igui911/ScrapOrbit/main/icons/so_icon_badge_prestige_bronze.png"
+ },
+ {
+  "key": "badge_prestige_gold",
+  "file": "so_icon_badge_prestige_gold.png",
+  "px": 512,
+  "family": "badge",
+  "source": "blender",
+  "config": true,
+  "url": "https://raw.githubusercontent.com/igui911/ScrapOrbit/main/icons/so_icon_badge_prestige_gold.png"
+ },
+ {
+  "key": "badge_prestige_rainbow",
+  "file": "so_icon_badge_prestige_rainbow.png",
+  "px": 512,
+  "family": "badge",
+  "source": "blender",
+  "config": true,
+  "url": "https://raw.githubusercontent.com/igui911/ScrapOrbit/main/icons/so_icon_badge_prestige_rainbow.png"
+ },
+ {
+  "key": "badge_skyhook",
+  "file": "so_icon_badge_skyhook.png",
+  "px": 512,
+  "family": "badge",
+  "source": "blender",
+  "config": true,
+  "url": "https://raw.githubusercontent.com/igui911/ScrapOrbit/main/icons/so_icon_badge_skyhook.png"
+ },
+ {
+  "key": "badge_fullcrew",
+  "file": "so_icon_badge_fullcrew.png",
+  "px": 512,
+  "family": "badge",
+  "source": "blender",
+  "config": true,
+  "url": "https://raw.githubusercontent.com/igui911/ScrapOrbit/main/icons/so_icon_badge_fullcrew.png"
+ },
+ {
+  "key": "rocket_mark",
+  "file": "so_icon_rocket_mark.png",
+  "px": 512,
+  "family": "symbol",
+  "source": "v2",
+  "config": false,
+  "url": "https://raw.githubusercontent.com/igui911/ScrapOrbit/main/icons/so_icon_rocket_mark.png"
+ },
+ {
+  "key": "title_lockup",
+  "file": "so_icon_title_lockup.png",
+  "px": 1024,
+  "family": "symbol",
+  "source": "v2",
+  "config": false,
+  "url": "https://raw.githubusercontent.com/igui911/ScrapOrbit/main/icons/so_icon_title_lockup.png"
+ }
+]
